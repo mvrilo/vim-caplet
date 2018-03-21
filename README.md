@@ -6,7 +6,7 @@ Vim syntax for [Bettercap](https://github.com/bettercap/bettercap)'s [Caplets](h
 
 ### Pathogen
 
-Set up [Pathogen](https://github.com/tpope/vim-pathogen) then clone/submodule this repo into `~/.vim/bundle/toml`, or wherever you've pointed your Pathogen.
+Set up [Pathogen](https://github.com/tpope/vim-pathogen) then clone/submodule this repo into `~/.vim/bundle/vim-caplet`, or wherever you've pointed your Pathogen.
 
 ### Vundle
 
